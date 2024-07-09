@@ -1,3 +1,5 @@
+all the project is common
+
 FRONTEND:
 
 here i am using vite js its similar to react js and how to install and run everything i tell,
