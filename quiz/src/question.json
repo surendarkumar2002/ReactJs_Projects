@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of India?",
+        "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"],
+        "correctOption": "New Delhi"
+    },
+    {
+        "id": 2,
+        "question": "Which Indian city is known as the 'Silicon Valley of India'?",
+        "options": ["Bengaluru", "Hyderabad", "Chennai", "Pune"],
+        "correctOption": "Bengaluru"
+    },
+    {
+        "id": 3,
+        "question": "Who was the first Prime Minister of India?",
+        "options": ["Jawaharlal Nehru", "Gandhi", "Sardar Patel", "Indira Gandhi"],
+        "correctOption": "Jawaharlal Nehru"
+    },
+    {
+        "id": 4,
+        "question": "Which river is considered the holiest river in India?",
+        "options": ["Ganges", "Yamuna", "Godavari", "Sarasvati"],
+        "correctOption": "Ganges"
+    },
+    {
+        "id": 5,
+        "question": "What is the national currency of India?",
+        "options": ["Dollar", "Euro", "Rupee", "Yen"],
+        "correctOption": "Rupee"
+    },
+    {
+        "id": 6,
+        "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+        "options": ["Punjab", "Haryana", "Rajasthan", "Gujarat"],
+        "correctOption": "Punjab"
+    },
+    {
+        "id": 7,
+        "question": "Which Indian festival is known as the 'Festival of Lights'?",
+        "options": ["Diwali", "Holi", "Eid", "Christmas"],
+        "correctOption": "Diwali"
+    },
+    {
+        "id": 8,
+        "question": "What is the largest state in India by area?",
+        "options": ["Rajasthan", "Madhya Pradesh", "Uttar Pradesh", "Maharashtra"],
+        "correctOption": "Rajasthan"
+    },
+    {
+        "id": 9,
+        "question": "Which Indian leader is known for his role in the Salt March?",
+        "options": ["Mahatma Gandhi", "Subhas Chandra Bose", "Jawaharlal Nehru", "Bhagat Singh"],
+        "correctOption": "Mahatma Gandhi"
+    },
+    {
+        "id": 10,
+        "question": "What is the national animal of India?",
+        "options": ["Lion", "Tiger", "Elephant", "Peacock"],
+        "correctOption": "Tiger"
+    }
+]

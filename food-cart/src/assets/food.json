@@ -1,0 +1,182 @@
+[
+  {
+    "id": 89,
+    "name": "Farmer Pick",
+    "amt": "345",
+    "ftype": "Pizza",
+    "pic": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "No",
+    "shop": "Pizza Haven"
+  },
+  {
+    "id": 99,
+    "name": "Spicy Delight",
+    "amt": "299",
+    "ftype": "Burger",
+    "pic": "https://images.unsplash.com/photo-1508737027454-e6454ef45afd?q=80&w=386&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "Yes",
+    "shop": "Burger Palace"
+  },
+  {
+    "id": 71,
+    "name": "Margarita Classic",
+    "amt": "310",
+    "ftype": "Pizza",
+    "pic": "https://images.unsplash.com/photo-1682979041136-80601d43700d?q=80&w=919&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "No",
+    "shop": "Pizza Heaven"
+  },
+  {
+    "id": 73,
+    "name": "Pepperoni Feast",
+    "amt": "375",
+    "ftype": "Pizza",
+    "pic": "https://images.unsplash.com/photo-1528137871618-79d2761e3fd5?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "Yes",
+    "shop": "Pizza Palace"
+  },
+  {
+    "id": 12,
+    "name": "Vegetarian Supreme",
+    "amt": "290",
+    "ftype": "Sandwich",
+    "pic": "https://images.unsplash.com/photo-1485451456034-3f9391c6f769?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "No",
+    "shop": "Sandwich Hub"
+  },
+  {
+    "id": 17,
+    "name": "BBQ Chicken",
+    "amt": "340",
+    "ftype": "Burger",
+    "pic": "https://images.unsplash.com/photo-1521305916504-4a1121188589?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "Yes",
+    "shop": "Burger King"
+  },
+  {
+    "id": 58,
+    "name": "Cheese Overload",
+    "amt": "320",
+    "ftype": "Pizza",
+    "pic": "https://images.unsplash.com/photo-1593504049359-74330189a345?q=80&w=327&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "No",
+    "shop": "Pizza Express"
+  },
+  {
+    "id": 85,
+    "name": "Hawaiian Paradise",
+    "amt": "360",
+    "ftype": "Salad",
+    "pic": "https://images.unsplash.com/photo-1600335895229-6e75511892c8?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "Yes",
+    "shop": "Salad World"
+  },
+  {
+    "id": 55,
+    "name": "Meat Lovers",
+    "amt": "395",
+    "ftype": "Pizza",
+    "pic": "https://images.unsplash.com/photo-1700760933900-320bf1158d71?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "No",
+    "shop": "Pizza Delight"
+  },
+  {
+    "id": 84,
+    "name": "Garlic Shrimp",
+    "amt": "350",
+    "ftype": "Pasta",
+    "pic": "https://plus.unsplash.com/premium_photo-1661445014453-784cd6c59ac8?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "Yes",
+    "shop": "Pasta House"
+  },
+  {
+    "id": 48,
+    "name": "Buffalo Chicken",
+    "amt": "370",
+    "ftype": "Burger",
+    "pic": "https://images.unsplash.com/photo-1460306855393-0410f61241c7?q=80&w=873&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "No",
+    "shop": "Burger Joint"
+  },
+  {
+    "id": 43,
+    "name": "Truffle Mushroom",
+    "amt": "400",
+    "ftype": "Pizza",
+    "pic": "https://images.unsplash.com/photo-1717883235373-ef10b2a745a3?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "Yes",
+    "shop": "Pizza Gourmet"
+  },
+  {
+    "id": 88,
+    "name": "Chicken Briyani",
+    "amt": "330",
+    "ftype": "Briyani",
+    "pic": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?q=80&w=888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "No",
+    "shop": "Bai Briyani"
+  },
+  {
+    "id": 77,
+    "name": "Masal dhosa",
+    "amt": "355",
+    "ftype": "dhosa",
+    "pic": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?q=80&w=776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "Yes",
+    "shop": "Favoirte foodie shop"
+  },
+  {
+    "id": 23,
+    "name": "Greek Veggie",
+    "amt": "300",
+    "ftype": "Salad",
+    "pic": "https://images.unsplash.com/photo-1547496502-affa22d38842?q=80&w=977&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "No",
+    "shop": "Salad Shop"
+  },
+  {
+    "id": 90,
+    "name": "Tandoori Chicken",
+    "amt": "385",
+    "ftype": "chicken 65",
+    "pic": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "Yes",
+    "shop": "Indian variety"
+  },
+  {
+    "id": 35,
+    "name": "Pesto Delight",
+    "amt": "310",
+    "ftype": "Pasta",
+    "pic": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "No",
+    "shop": "Pasta Delight"
+  },
+  {
+    "id": 80,
+    "name": "Seafood Special",
+    "amt": "415",
+    "ftype": "Pasta",
+    "pic": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "Yes",
+    "shop": "Seafood House"
+  },
+  {
+    "id": 34,
+    "name": "Loaded Veggie",
+    "amt": "290",
+    "ftype": "Burger",
+    "pic": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "No",
+    "shop": "Veggie Burger"
+  },
+  {
+    "id": 8,
+    "name": "Chicken rice",
+    "amt": "365",
+    "ftype": "non-veg",
+    "pic": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?q=80&w=1025&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latest": "Yes",
+    "shop": "gommala shop"
+  }
+]
